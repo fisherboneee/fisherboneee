@@ -1,4 +1,4 @@
-[![fisherboneee's GitHub stats](https://github-readme-stats-latest.vercel.app/api?username=fisherboneee&theme=dracula)](https://github-readme-stats-latest.vercel.app)
+[![fisherboneee's GitHub stats](https://github-readme-stats-latest.vercel.app/api?username=fisherboneee&show_icons=true)](https://github-readme-stats-latest.vercel.app)
 
 <!--
 **fisherboneee/fisherboneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
