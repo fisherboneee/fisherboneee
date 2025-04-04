@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![fisherboneee's GitHub stats](https://github-readme-stats-latest.vercel.app/api?username=fisherboneee)](https://github-readme-stats-latest.vercel.app)
 
 <!--
