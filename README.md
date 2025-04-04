@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![fisherbone's GitHub stats](https://github-readme-stats-five-ecru-24.vercel.app/api?username=fisherbone)](https://github-readme-stats-five-ecru-24.vercel.app)
+[![fisherboneee's GitHub stats](https://github-readme-stats-latest.vercel.app/api?username=fisherboneee)](https://github-readme-stats-latest.vercel.app)
 
 <!--
 **fisherboneee/fisherboneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
